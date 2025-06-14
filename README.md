@@ -37,16 +37,6 @@ This project includes:
 
 ---
 
-## 🔹 Market Share by Manufacturer
-
-We analyze:
-- The percentage each manufacturer holds in the total electric vehicle population.
-  
-**Visualization:**  
-✅ Bar plot of Market Share by Manufacturer.
-
----
-
 ## 🔹 Year-on-Year Electric Vehicle Growth
 
 We compute:
